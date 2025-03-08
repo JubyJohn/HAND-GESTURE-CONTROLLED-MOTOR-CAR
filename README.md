@@ -48,6 +48,13 @@ TO CONTROL RC MOTOR CAR WITH HAND MOVEMENTS - ESP32 NOW APPLICATION
 ![WhatsApp Image 2025-02-25 at 11 10 12 AM](https://github.com/user-attachments/assets/a7ae9056-3012-4873-9db9-3e5a6d0471bc)
 
 
+## PROCEDURE
+<br> Step 1 : Interface ESP32 with accelerometer and find out the axis range for each direction.
+<br> Step 2 : Interface ESP8266 with MQTT protocol in arduino IDE.
+<br> Step 3 : Modify MQTT program with IR sensor factors to get desired outputs.
+
+
+
 
   
   
